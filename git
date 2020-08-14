@@ -1,0 +1,12 @@
+<? php
+
+    function
+{
+    $num = 0;
+    $r = 0;
+    $e = 0;
+
+    $num = "leia o número"
+
+
+}
